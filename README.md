@@ -7,7 +7,7 @@ Required Modules:
 * [six](https://pypi.python.org/project/six)
 
 Example Usage:
-
+Detailed Example: https://www.makeuseof.com/create-docker-compose-files-from-running-docker-containers/
     sudo python autocompose.py <container-name-or-id>
 
 
